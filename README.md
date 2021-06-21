@@ -9,7 +9,9 @@ I'm Kevin 🤓.
 
 <!-- Personal Stuffs -->
 <h3> About myself:</h3>
+
 - 🌱 I’m currently learning 
+
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 
@@ -22,6 +24,7 @@ I'm Kevin 🤓.
 - ⚡ Fun fact: 
 
 - 🧠 What I would like to learn: 
+
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 
@@ -35,7 +38,7 @@ I'm Kevin 🤓.
 
 
 <!-- GitHub stats -->
-<b>⚡ My GitHub Statistics</b>
+<h3 align="centert">⚡ My GitHub Statistics</h3>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafinho&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>
 </p>
