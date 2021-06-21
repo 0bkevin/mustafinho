@@ -19,10 +19,14 @@ I'm Kevin 🤓.
 
 - ⚡ Fun fact: 
 
+- 🧠 What I would like to learn: C++ and Rust
+
 <!-- GitHub stats -->
 <b>⚡ My GitHub Statistics</b>
 
 <p>
 <!-- GitHub Stats -->
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafinho&show_icons=true&hide_border=true" />
+</p>
 
