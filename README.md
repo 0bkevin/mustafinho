@@ -14,6 +14,9 @@
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
+- :unlock: &nbsp; I'm currently learning **Cairo, ZK proof and L2 L1 comunitation**
+- :punch: &nbsp; I would like to learn **Rust and Docker**
+
 
 <br>
 
@@ -207,4 +210,4 @@
 
 
 
-[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=mustafinho&theme=react-dark)](https://github.com/suhailkakar)
+[![Kevin's github activity graph](https://activity-graph.herokuapp.com/graph?username=mustafinho&theme=react-dark)](https://github.com/mustafinho)
