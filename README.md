@@ -14,8 +14,8 @@
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
-- :unlock: &nbsp; I'm currently learning **Cairo, ZK proof and L2 L1 comunitation**
-- :punch: &nbsp; I would like to learn **Rust and Docker**
+- :baby: &nbsp; I'm currently learning **Cairo, ZK proof and L2 L1 integration**
+- :construction_worker: &nbsp; I would like to learn **Rust and Docker**
 
 
 <br>
