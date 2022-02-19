@@ -1,4 +1,4 @@
-<h1 align="left" id="mustafinho-title">:raising_hand: Ask Me Anything Kevin Bravo's version</h1>
+<h1 align="left" id="mustafinho-title">:bowtie: Ask Me Anything Kevin Bravo's version</h1>
 
 Hello, recruiter or technical person! Thank you for stopping by and for the interest in my profile.
 
