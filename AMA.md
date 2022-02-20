@@ -68,11 +68,11 @@ In that program I've been taking part of different projects and activities durin
   >
 </span>
 </p>
-
-<p>
+  
   <span align = "left"> Actually, I’m part of the Commitment Committee in AVAA which is a position in where i have to design action plans to improve compliance of the commitments by the fellows and help them with all the different questions and concerns that they could have with the Pro-Excelencia program</span>
   
-  <span align = "right">
+<p align = "center">
+  <span>
   <img 
     width="300"
     height="400"
@@ -83,7 +83,7 @@ In that program I've been taking part of different projects and activities durin
 
 # :computer: Talk Techy to me 
 
-## Techstack Overview
+## :octocat: Techstack Overview
 
 - **Languages:**
 Javascript/Typescript, Python, Solidity, 
@@ -97,11 +97,11 @@ Pinata, Textile IO, IPFS, Ingura, Alchemy, Git, slither, mythx
 - **Testing:**
 Chai Library, pytest
 
-## Best Personal Projects:
+## :octocat: Best Personal Projects:
 
 **Crowdfy:** A crowdfunding protocol that uses the minimal proxy pattern to make a campaign, every campaign has its own contract and its own storage variable. There is a website where you can interact with the project.
 
-Techstack: Solidity, truffle, React, IPFS, Slither
+  - Techstack: Solidity, truffle, React, IPFS, Slither
   
 - [Repo for the smart contracts](https://github.com/mustafinho/crowdfy_dapp)
 - [Repo for the website](https://github.com/mustafinho/crowdfy)
@@ -109,23 +109,25 @@ Techstack: Solidity, truffle, React, IPFS, Slither
 
 **Arepa-Chain:** A blockchain protocol im building from scratch (currently working on) aims to be a completely blockchain which you can interact with (with his own wallet, cli, network for sharing the blocks, his own consensus mechanism (PoW))
 
-TechStack: Typescript, nodeJs, socket io
+  - TechStack: Typescript, nodeJs, socket io
 
 **Terato:** a simple website, aims to be the place in where occupational therapist can find helpful information for its practices, and also contribute to the community through blog post
 
-TechStack: Next js React/typescript, tailwind, strapi
+  - TechStack: Next js React/typescript, tailwind, strapi
 
 - [Repo](https://github.com/mustafinho/terato)
 
-## Unit testing experience?
+## :grey_question: Some questions
+
+### Unit testing experience?
 
 Always recommended, more if you are writing solidity code. I use mocha and chai library for assertions when I testing my solidity code in JS or Pytest if im working with python
 
-## TDD experience?
+### TDD experience?
 
 I know the theory and concepts behind TDD and I've applied them to the projects that I worked on, but of course not in a business way.
 
-## Can you create a palindrome, then revert a linked list where the first entry needs to… and at the same time design a cripto economic system that can solve the world’s inequality problem?
+### Can you create a palindrome, then revert a linked list where the first entry needs to… and at the same time design a cripto economic system that can solve the world’s inequality problem?
 
 Ok, I have strong problem solving and communication abilities that I can apply for most situations that I could find.
 
@@ -143,7 +145,7 @@ Pizza
 
 WAGMI
 
-- <p> **All your networth is in the hands of this man?** <span><img src="https://i.imgur.com/J6hHWCR.jpg" width="110" height="150"/></span></p>
+- <p> All your networth is in the hands of this man? <span><img src="https://i.imgur.com/J6hHWCR.jpg" width="110" height="150"/></span></p>
 
 Yes
 
@@ -151,7 +153,7 @@ Yes
 
 Yes, but I'm still waiting for my booster shot(3rd dosse)
 
-# What Would you Ask & Seek at Your Next Company?
+# :dancer: What Would you Ask & Seek at Your Next Company?
 
 ## What are your meetings like? How many per week would I be expecting in this role?
 
@@ -168,15 +170,15 @@ In order of importance:
 
 ## Your perfect job description:
 
-*"We are looking for a friky adept technologist to work alongside us building our protocol and improving our exciting products. You'll spend time researching the most efficient way in which you can write smart contracts, Designing reviewing and innovating to improve the protocol.
+*"We are looking for a friky adept technologist to work alongside us building our protocol and improving our exciting products. You'll spend time researching the most efficient way in which you can write smart contracts, Designing reviewing and innovating to improve the protocol.*
 
-*So, you'll help us out first of all; designing, coding, testing and deploying smart contracts, review exciting code written by other team members, research, architect, and develop innovation solutions to scale the protocol, define new features in order to contribute to building a great user experience, help build reliable and scalable systems with a strong focus on security, provide documentation, guides, and support, acting as a second line of support and helping our community leads as needed, coordinate with main stakeholders in the space to drive forward new standards for smart contracts, leading the technical team in a bunch of features across multiple stacks, explain features to stakeholders from technical to non-technical.
+*So, you'll help us out first of all; designing, coding, testing and deploying smart contracts, review exciting code written by other team members, research, architect, and develop innovation solutions to scale the protocol, define new features in order to contribute to building a great user experience, help build reliable and scalable systems with a strong focus on security, provide documentation, guides, and support, acting as a second line of support and helping our community leads as needed, coordinate with main stakeholders in the space to drive forward new standards for smart contracts, leading the technical team in a bunch of features across multiple stacks, explain features to stakeholders from technical to non-technical.*
 
-*Lastly, we´ll avoid booking unnecessary meetings in your day and we'll also give back to the dev community in general through Meetups, events, or even a big check to open source, etc...
+*Lastly, we´ll avoid booking unnecessary meetings in your day and we'll also give back to the dev community in general through Meetups, events, or even a big check to open source, etc...*
 
 *Welcome aboard!."*
 
-# Personal Details
+# :smiley: Personal Details
 
 ```solidity
 string name public = "Kevin"
@@ -186,8 +188,6 @@ string lastName public = "Bravo"
 
 ```solidity
 string nationality public = "venezuelan"
-  
-uint8 age public = 22
 ```
 
 ```solidity
