@@ -78,16 +78,18 @@ Actually, I’m part of the Commitment Committee in AVAA which is a position in 
 
 # Personal Details
 
-    name public string = "Kevin"
-    lastName public string = "Bravo"
+```solidity
+string name public = "Kevin"
+string lastName public = "Bravo"
     
-    nationality public string: "venezuelan"
-    
-    age public uint8 = 22
-    
+string nationality public = "venezuelan"
+  
+uint8 age public = 22
+```
+
 Language:
-- 🇲🇽 **Spanish |** native
-- 🇬🇧 **English |** proficient | 
+- **Spanish |** native
+- **English |** proficient 
 
 # Getting to Know Me
 
@@ -99,12 +101,13 @@ It is a bit of mix & match
 - Medium, I like the technical articles published here which tend to go more in-depth and technical than random tweets and subreddits. 
 - Online Courses & Training, currently I don't have a subscription for a learning platform because I cannot afford it, but in general when Pluralsight gives its free weekend I enjoy taking one or two courses a lot, usually I learn through free courses on youtube. And I’ve been taking some of the hands on projects offered by [buildspace](https://buildspace.so/)
 
-  Youtube channels I recommend 
-- Patrick Collins
-- Free Code Camp
-- Encode club
-- ETH Global
-- Moralis
+ ### Youtube channels I recommend 
+   - Patrick Collins
+   - Free Code Camp
+   - Encode club
+   - ETH Global
+   - Moralis
+   - Eat the blocks
 
 ## What are you currently working on?
 
@@ -113,7 +116,10 @@ Currently I'm working on two project	The OT website and  the Arepachain Blockcha
 # Contact Details
 
 **Email:** bravokevinto@gmail.com 
+
 **LinkedIn:** [bravokevin](https://www.linkedin.com/in/bravokevin/)
+
 **Twitter:** @KevBTo
+
 **Phone:** Let's email first 🙂
 
