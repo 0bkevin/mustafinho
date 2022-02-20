@@ -82,23 +82,23 @@ Actually, I’m part of the Commitment Committee in AVAA which is a position in 
 
 # :stuck_out_tongue_winking_eye: Lighting Round
 
-**What are you reading right now?**
+- **What are you reading right now?**
 
 The blockchain developer by Elad Elrom
 
-**Hamburgers or pizza?**
+- **Hamburgers or pizza?**
 
 Pizza
 
-**WAGMI?**
+- **WAGMI?**
 
 WAGMI
 
-**All your networth is in the hands of this man?** <span><img src="https://i.imgur.com/J6hHWCR.jpg" width="100" height="150"/></span>
+- <p> **All your networth is in the hands of this man?** <span><img src="https://i.imgur.com/J6hHWCR.jpg" width="105" height="150"/></span> </p>
 
 Yes
 
-**Are you fully vaccinated?**
+- **Are you fully vaccinated?**
 
 Yes, but I'm still waiting for my booster shot(3rd dosses)
 
@@ -149,4 +149,3 @@ Currently I'm working on two project	The OT website and  the Arepachain Blockcha
 **Twitter:** @KevBTo
 
 **Phone:** Let's email first 🙂
-
