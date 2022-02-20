@@ -80,6 +80,52 @@ Actually, I’m part of the Commitment Committee in AVAA which is a position in 
 
 # :computer: Talk Techy to me 
 
+## Techstack Overview
+
+- **Languages:**
+Javascript/Typescript, Python, Solidity, 
+
+- **Frameworks:**
+React, Nextjs, brownie, hardhat, truffle
+
+- **Tools:**
+Pinata, Textile IO, IPFS, Ingura, Alchemy, Git, slither, mythx
+
+- **Testing:**
+Chai Library, pytest
+
+## Best Personal Projects:
+
+**Crowdfy:** A crowdfunding protocol that uses the minimal proxy pattern to make a campaign, every campaign has its own contract and its own storage variable. There is a website where you can interact with the project.
+
+Techstack: Solidity, truffle, React, IPFS, Slither
+  
+- [Repo for the smart contracts](https://github.com/mustafinho/crowdfy_dapp)
+- [Repo for the website](https://github.com/mustafinho/crowdfy)
+- [Demo(in IPFS)](https://ipfs.infura.io/ipfs/QmeCLozXKTdKKePNDoQkE1dtL5nwEeLVaqCKFSNNvNmscY)
+
+**Arepa-Chain:** A blockchain protocol im building from scratch (currently working on) aims to be a completely blockchain which you can interact with (with his own wallet, cli, network for sharing the blocks, his own consensus mechanism (PoW))
+
+TechStack: Typescript, nodeJs, socket io
+
+**Terato:** a simple website, aims to be the place in where occupational therapist can find helpful information for its practices, and also contribute to the community through blog post
+
+TechStack: Next js React/typescript, tailwind, strapi
+
+- [Repo](https://github.com/mustafinho/terato)
+
+## Unit testing experience?
+
+Always recommended, more if you are writing solidity code. I use mocha and chai library for assertions when I testing my solidity code in JS or Pytest if im working with python
+
+## TDD experience?
+
+I know the theory and concepts behind TDD and I've applied them to the projects that I worked on, but of course not in a business way.
+
+## Can you create a palindrome, then revert a linked list where the first entry needs to… and at the same time design a cripto economic system that can solve the world’s inequality problem?
+
+Ok, I have strong problem solving and communication abilities that I can apply for most situations that I could find.
+
 # :stuck_out_tongue_winking_eye: Lighting Round
 
 - **What are you reading right now?**
