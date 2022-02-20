@@ -18,8 +18,8 @@ Yes, Formally I’m an Ocupational Therapy (OT) Student Here in venezuela, when 
 
 Well, my family is kinda diverse, for my father’s side there are a lot of engineers and since  I was a kid I always loved to see how my dad disassembled, designed and built things up with all his tools. On the other hand, for my mother’s side there are nurses, teachers, occupational therapists, and, I really love that feeling of being able to help other humans, no matter what.  So, I decide to have a pathway in where I could include partially both:
 
-	- **The engineering side**: designing, building, implementing, crash things up and assemble then uthil work
-	- **The care side**: helping people, communities, not only with health problems but also with social, emotional and communication problems…
+- **The engineering side**: designing, building, implementing, crash things up and assemble then uthil work
+- **The care side**: helping people, communities, not only with health problems but also with social, emotional and communication problems…
   
 And since there is no such a thing as engineering care, I decided to go for OT and after finishing that go for an engineering career. **And I'm keeping that decision.**
 
@@ -35,11 +35,10 @@ Yeap! Actually I’m part of  Pro-excelencia, which is a program carried out by 
 
 In that program I've been taking part of different projects and activities during the 3 years that I’ve been there, one of them was UMAA (A friendship hand for the environment) by its acronym in spanish, a project that have the mission of promoting and implementing criteria and instruments that allow the protection and conservation of the environment, in addition to enhancing the feeling of belonging of all Venezuelans towards the culture of Venezuela.
 
-[Imgur](https://imgur.com/utSVJI0)
+<img src=https://imgur.com/utSVJI0 align="center"/>
+<img src=https://imgur.com/3XiLfkb align="left"/>
+<img src=https://imgur.com/G7hO8Q0 align="rigth"/>
 
-[Imgur](https://imgur.com/3XiLfkb)
-
-[Imgur](https://imgur.com/G7hO8Q0)
 
 Actually, I’m part of the Commitment Committee in AVAA which is a position in where i have to design action plans to improve compliance of the commitments by the fellows and help them with all the different questions and concerns that they could have with the Pro-Excelencia program
 
