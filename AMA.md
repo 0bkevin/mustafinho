@@ -35,11 +35,11 @@ Yeap! Actually I’m part of  Pro-excelencia, which is a program carried out by 
 
 In that program I've been taking part of different projects and activities during the 3 years that I’ve been there, one of them was UMAA (A friendship hand for the environment) by its acronym in spanish, a project that have the mission of promoting and implementing criteria and instruments that allow the protection and conservation of the environment, in addition to enhancing the feeling of belonging of all Venezuelans towards the culture of Venezuela.
 
-<p align="center">
+<p align="rigth">
   <img 
     width="300"
     height="300"
-    src="https://imgur.com/utSVJI0"
+    src="i.imgur.com/utSVJI0.jpg"
   >
 </p>
 
@@ -47,25 +47,26 @@ In that program I've been taking part of different projects and activities durin
   <img 
     width="300"
     height="300"
-    src="https://imgur.com/3XiLfkb"
+    src="https://i.imgur.com/G7hO8Q0.jpg"
   >
 </p>
 
-<p align="center">
+<p align="left">
   <img 
     width="300"
     height="300"
-    src="https://imgur.com/G7hO8Q0"
+    src="https://i.imgur.com/3XiLfkb.jpg"
   >
 </p>
 
 
 Actually, I’m part of the Commitment Committee in AVAA which is a position in where i have to design action plans to improve compliance of the commitments by the fellows and help them with all the different questions and concerns that they could have with the Pro-Excelencia program
+
 <p align="center">
   <img 
     width="300"
     height="300"
-    src="https://imgur.com/AzOmzkB"
+    src="https://i.imgur.com/AzOmzkB.jpg"
   >
 </p>
 
