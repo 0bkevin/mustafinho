@@ -5,7 +5,7 @@ Hello, recruiter or technical person! :clap: **Thank you for stopping by and hav
 Nowdays is realy complicated to know each other, more when you are in a interview and have all kind of feelings (anxaiety, fear...) and short time, so I decided to write this kind of AMA in where I'm interviewing myself for you to know a little about me.
 
 
-> Each section contains 5 questions or less, the goal is to explain my technical & soft  experience as well as professional interests so that any person could get to know me in less than 10 mins. 
+> Each section contains 5 questions or less, the goal is to explain my technical & soft  experience as well as professional interests so that any person could get to know me in less than 5 mins. 
 
 
 # :eyes: Overall
@@ -14,13 +14,13 @@ Actually, the experience that I've applied professionally is mostly based on sof
 
 But, of course **I have Highly technical abilities that I've applied to all the side projects that I worked on, that include planning, designing, building and deploying**
 
-## :suspect: Occupational what???
+## Occupational what???
 
 Yes, Formally I’m an Ocupational Therapy (OT) Student here in Venezuela. When I started, my goal was to finish this carrer and then study and engeneering realted carrer, but the pandemic came and everything just fucked up.
 
 During the pandemic I started to study Web development through a Scholarship of Coursera, to have something to do during this time because my college was completely closed. Then, I started to dive deep into the blockchain rabbit hole and completely fell in love with all this crazy and buggy and new tech. Not only because the innovation, in blockchain development you need  to have string fundamental knowledge of all kind of stuff (cryptographics, networks, cybersec, system design, behavioral economics, game theory…) and wow, that experience of being in constant learning and at the same time building what probably could be the future of internet is something that I could'nt let go.
 
-## :confused: Why study two careers?
+## Why study two careers?
 
 Well, my family is kinda diverse, for my father’s side there are a lot of engineers and since I was a kid I always loved to see how my dad disassembled, designed and built things up with all his tools. On the other hand, for my mother’s side there are nurses, teachers, occupational therapists, and, I really love that feeling of being able to help other humans, no matter what.  So, I decide to have a pathway in where I could include partially both:
 
@@ -29,13 +29,13 @@ Well, my family is kinda diverse, for my father’s side there are a lot of engi
   
 And since there is no such a thing as engineering care, I decided to go for OT and after finishing that go for an engineering career. **And I'm keeping that decision.**
 
-## :neckbeard: What's your tech experience like?
+##  What's your tech experience like?
 
 During the beginning of the pandemic I started to learn how to code, and then I've been building a lot of projects, doing a lot of research, and coding a lot of code that doesn’t work.
 
 I’ve been coding for a year and a half doing side projects, mostly related to blockchain, using solidity, javascript and python
 
-## :smirk: Volunteer?
+## Volunteer?
 
 Yeap! Actually I’m part of  Pro-excelencia, which is a program carried out by the American Friendship Association (AVAA by its acronym in spanish), an NGO that helps  Venezuelan college students providing them with leadership skills, assertive communication, TICS, English, awareness and Reinforcement of social and citizen awareness with the participation and organization of volunteer activities and projects during their career.
 
@@ -81,9 +81,9 @@ In that program I've been taking part of different projects and activities durin
   </span>
 </p>
 
-# :computer: Talk Techy to me 
+# :octocat: :computer: Talk Techy to me 
 
-## :octocat: Techstack Overview
+## Techstack Overview
 
 - **Languages:**
 Javascript/Typescript, Python, Solidity, 
@@ -97,7 +97,7 @@ Pinata, Textile IO, IPFS, Ingura, Alchemy, Git, slither, mythx
 - **Testing:**
 Chai Library, pytest
 
-## :octocat: Best Personal Projects:
+## Best Personal Projects:
 
 **Crowdfy:** A crowdfunding protocol that uses the minimal proxy pattern to make a campaign, every campaign has its own contract and its own storage variable. There is a website where you can interact with the project.
 
@@ -155,9 +155,9 @@ Yes, but I'm still waiting for my booster shot(3rd dosse)
 
 # :dancer: What Would you Ask & Seek at Your Next Company?
 
-## What are your meetings like? How many per week would I be expecting in this role?
+<!-- ## What are your meetings like? How many per week would I be expecting in this role?
 
-I consider meetings to be a low productive activity within companies yet somehow we tend to think they are productive. There's tons of research that show otherwise. Non-planned meetings, "urgent" same-day meetings, meetings with no identifiable action items... If your role is to have me on back-to-back meetings just because, I would be not interested in the position.
+I consider meetings to be a low productive activity within companies yet somehow we tend to think they are productive. There's tons of research that show otherwise. Non-planned meetings, "urgent" same-day meetings, meetings with no identifiable action items... If your role is to have me on back-to-back meetings just because, I would be not interested in the position. -->
 
 ## If we remove money off the table, what would you say is important for your next gig?
 
