@@ -221,7 +221,7 @@ It is a bit of mix & match
 
 ### What are you currently working on?
 
-Currently I'm working on two projectThe OT website and  the Arepachain Blockchain. But also I'm currently in a self learning process in which I'm learning about crypto primitives and Token economics (Bonding Curves, Prediction Markets, Token Curated Registries) and how to apply them on smart contracts.
+Currently I'm working on the "Arepachain" Blockchain. But also I'm currently in a self learning process in which I'm learning about crypto primitives and Token economics (Bonding Curves, Prediction Markets, Token Curated Registries) and how to apply them on smart contracts.
 
 ### Blog post
 
