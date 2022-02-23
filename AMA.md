@@ -111,11 +111,11 @@ Chai Library, pytest
 
   - TechStack: Typescript, nodeJs, socket io
 
-**Terato:** a simple website, aims to be the place in where occupational therapist can find helpful information for its practices, and also contribute to the community through blog post
+<!-- **Terato:** a simple website, aims to be the place in where occupational therapist can find helpful information for its practices, and also contribute to the community through blog post
 
   - TechStack: Next js React/typescript, tailwind, strapi
 
-- [Repo](https://github.com/mustafinho/terato)
+- [Repo](https://github.com/mustafinho/terato) -->
 
 ## :grey_question: Some questions
 
