@@ -2,7 +2,7 @@
 
 Hello, recruiter or technical person! :clap: **Thank you for stopping by and have interest in my profile.**
 
-Nowdays is realy complicated to know each other, more when you are in a interview and have all kind of feelings (anxaiety, fear...) and short time, so I decided to write this kind of AMA in where I'm interviewing myself for you to know a little about me.
+Nowadays is really complicated to know each other, more when you are in a interview and have all kind of feelings (anxiety, fear...) and short time, so I decided to write this kind of AMA in where I'm interviewing myself for you to know a little about me.
 
 
 > Each section contains 5 questions or less, the goal is to explain my technical & soft  experience as well as professional interests so that any person could get to know me in less than 5 mins. 
@@ -16,13 +16,13 @@ But, of course **I have Highly technical abilities that I've applied to all the 
 
 ## Occupational what???
 
-Yes, Formally I’m an Ocupational Therapy (OT) Student here in Venezuela. When I started, my goal was to finish this carrer and then study and engeneering realted carrer, but the pandemic came and everything just fucked up.
+Yes, Formally I’m an Occupational Therapy (OT) Student here in Venezuela. When I started, my goal was to finish this carrer and then study and engeneering realted carrer, but the pandemic came and everything just fucked up.
 
-During the pandemic I started to study Web development through a Scholarship of Coursera, to have something to do during this time because my college was completely closed. Then, I started to dive deep into the blockchain rabbit hole and completely fell in love with all this crazy and buggy and new tech. Not only because the innovation, in blockchain development you need  to have string fundamental knowledge of all kind of stuff (cryptographics, networks, cybersec, system design, behavioral economics, game theory…) and wow, that experience of being in constant learning and at the same time building what probably could be the future of internet is something that I could'nt let go.
+During the pandemic I started to study Web development through a Scholarship of Coursera, to have something to do during this time because my college was completely closed. Then, I started to dive deep into the blockchain rabbit hole and completely fell in love with all this crazy and buggy and new tech. Not only because the innovation, in blockchain development you need  to have string fundamental knowledge of all kind of stuff (cryptographics, networks, cybersec, system design, behavioral economics, game theory…) and wow, that experience of being in constant learning and at the same time building what probably could be the future of internet is something that I couldn't let go.
 
 ## Why study two careers?
 
-Well, my family is kinda diverse, for my father’s side there are a lot of engineers and since I was a kid I always loved to see how my dad disassembled, designed and built things up with all his tools. On the other hand, for my mother’s side there are nurses, teachers, occupational therapists, and, I really love that feeling of being able to help other humans, no matter what.  So, I decide to have a pathway in where I could include partially both:
+Well, my family is kinda diverse, for my father’s side there are a lot of engineers and since I was a kid I always loved to see how my dad disassembled, designed and built things with all his tools. On the other hand, for my mother’s side there are nurses, teachers, occupational therapists, and, I really love that feeling of being able to help other humans, no matter what.  So, I decide to have a pathway in where I could include partially both:
 
 - **The engineering side**: designing, building, implementing, crash things up and assemble then uthil work
 - **The care side**: helping people, communities, not only with health problems but also with social, emotional and communication problems…
@@ -126,6 +126,9 @@ Always recommended, more if you are writing solidity code. I use mocha and chai 
 ### TDD experience?
 
 I know the theory and concepts behind TDD and I've applied them to the projects that I worked on, but of course not in a business way.
+### Have you had experience with solidity security best practices?
+
+Yes, in fact this is one of the areas in which I have more insteres, Along with tokenomic, I really like doing research about the hacks that are happening in the ecosystem, and I’m very fan of the Ethernaut CTF.
 
 ### Can you create a palindrome, then revert a linked list where the first entry needs to… and at the same time design a cripto economic system that can solve the world’s inequality problem?
 
@@ -153,11 +156,11 @@ Yes
 
 Yes, but I'm still waiting for my booster shot(3rd dosse)
 
-# :dancer: What Would you Ask & Seek at Your Next Company?
+# :dancer: What Would You Ask & Seek at Your Next Company?
 
 <!-- ## What are your meetings like? How many per week would I be expecting in this role?
 
-I consider meetings to be a low productive activity within companies yet somehow we tend to think they are productive. There's tons of research that show otherwise. Non-planned meetings, "urgent" same-day meetings, meetings with no identifiable action items... If your role is to have me on back-to-back meetings just because, I would be not interested in the position. -->
+I consider meetings to be a low productive activity within companies yet somehow we tend to think they are productive. There's tons of research that shows otherwise. Non-planned meetings, "urgent" same-day meetings, meetings with no identifiable action items... If your role is to have me on back-to-back meetings just because, I would be not interested in the position. -->
 
 ## If we remove money off the table, what would you say is important for your next gig?
 
