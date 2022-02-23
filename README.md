@@ -16,6 +16,8 @@
 - :bird: &nbsp;Let's talk more in **[Twitter]**
 - :baby: &nbsp; I'm currently learning **Cairo, ZK proof and L2 L1 integration**
 - :construction_worker: &nbsp; I would like to learn **Rust and Docker**
+- You can know more about me in less that 5 mins [here.](https://github.com/mustafinho/mustafinho/blob/main/AMA.md)
+
 
 
 <br>
