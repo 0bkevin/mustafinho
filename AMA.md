@@ -37,9 +37,9 @@ I’ve been coding for a year and a half doing side projects, mostly related to 
 
 ## Volunteer?
 
-Yeap! Actually I’m part of  Pro-excelencia, which is a program carried out by the American Friendship Association (AVAA by its acronym in spanish), an NGO that helps  Venezuelan college students providing them with leadership skills, assertive communication, TICS, English, awareness and Reinforcement of social and citizen awareness with the participation and organization of volunteer activities and projects during their career.
+Yeap! Actually I’m part of  Pro-excelencia, which is a program carried out by the Venezuelan American Friendship Association (AVAA by its acronym in spanish), an NGO that helps  Venezuelan college students providing them with leadership skills, assertive communication, TICS, English, awareness and Reinforcement of social and citizen awareness with the participation and organization of volunteer activities and projects during their career.
 
-In that program I've been taking part of different projects and activities during the 3 years that I’ve been there, one of them was UMAA (A friendship hand for the environment) by its acronym in spanish, a project that have the mission of promoting and implementing criteria and instruments that allow the protection and conservation of the environment, in addition to enhancing the feeling of belonging of all Venezuelans towards the culture of Venezuela.
+In that program I've been taking part of different projects and activities during the 3 years that I’ve been there, one of them was UMAA (A friendly hand for the environment) by its acronym in spanish, a project that have the mission of promoting and implementing criteria and instruments that allow the protection and conservation of the environment, in addition to enhancing the feeling of belonging of all Venezuelans towards the culture of Venezuela.
 
 <p align="center">
   
