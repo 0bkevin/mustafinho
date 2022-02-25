@@ -173,9 +173,9 @@ In order of importance:
 
 ## Your perfect job description:
 
-*"We are looking for a friky adept technologist to work alongside us building our protocol and improving our exciting products. You'll spend time researching the most efficient way in which you can write smart contracts, Designing reviewing and innovating to improve the protocol.*
+*"We are looking for a friky adept technologist to work alongside us building our protocol, making research for improving our exciting products.. You'll spend time researching the most efficient way in which you can write smart contracts, Designing reviewing and innovating to improve the protocol.*
 
-*So, you'll help us out first of all; designing, coding, testing and deploying smart contracts, review exciting code written by other team members, research, architect, and develop innovation solutions to scale the protocol, define new features in order to contribute to building a great user experience, help build reliable and scalable systems with a strong focus on security, provide documentation, guides, and support, acting as a second line of support and helping our community leads as needed, coordinate with main stakeholders in the space to drive forward new standards for smart contracts, leading the technical team in a bunch of features across multiple stacks, explain features to stakeholders from technical to non-technical.*
+*So, you'll help us out first of all; designing, coding, testing and deploying smart contracts, review exciting code written by other team members, research, architect, and develop innovation solutions to scale the protocol, define new features in order to contribute to building a great user experience, help build reliable and scalable systems with a strong focus on security (even trying implementing new l2 solutions), provide documentation, guides, and support, acting as a second line of support and helping our community leads as needed, coordinate with main stakeholders in the space to drive forward new standards for smart contracts, leading the technical team in a bunch of features across multiple stacks, explain features to stakeholders from technical to non-technical.*
 
 *Lastly, we´ll avoid booking unnecessary meetings in your day and we'll also give back to the dev community in general through Meetups, events, or even a big check to open source, etc...*
 
