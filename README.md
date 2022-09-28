@@ -207,7 +207,7 @@
  
 
 [linkedin]: https://www.linkedin.com/in/bravokevin "LinkedIn"
-[twitter]: https://twitter.com/KevBTO "Twitter"
+[twitter]: https://twitter.com/_BravoK "Twitter"
 [blog]: https://kevdevto.hashnode.dev/ "Blog"
 
 
