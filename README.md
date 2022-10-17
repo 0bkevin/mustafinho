@@ -1,7 +1,7 @@
 
 
 <h1 align="left" id="mustafinho-title">:wave: Hello there! I'm Kevin</h1>
-<h3 align="left">I am a Blockchain Developer</h3>
+<h3 align="left">I'm a Blockchain Developer</h3>
 
 
 <a href="#mustafinho-title">
