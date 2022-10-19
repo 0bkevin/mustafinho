@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mustafinho&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Kevin Bravo" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently **Open for work**
+- :office: &nbsp;I'm currently **looking for a job**
 - :writing_hand: &nbsp;I regulary write article on my **[blog]**
 - :speech_balloon: &nbsp;I like to talk about **Blockchain**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
