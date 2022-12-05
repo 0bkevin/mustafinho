@@ -11,9 +11,9 @@ Nowadays it is really complicated to know each other, more when you are in a int
 
 ##  What's your tech experience like?
 
-I have been working for the past 6 months in the NGO where I'm currently a Scholarship holder as an intern.
+I've been working for the past 6 months in the NGO where I'm currently a Scholarship holder as an intern.
 
-My work was mostly helping improve internal processes in the organization. Previously the organization had a very inefficient way to manage data and time consuming and inneficient processes to make thighs work. 
+My work has been mostly helping improve internal processes in the organization. Previously the organization had a very inefficient way to manage data and time consuming and inneficient processes to make thighs work. 
 
 I actually built some systems that help improve those processes and make the internal work more efficient and automatic.
 
@@ -30,9 +30,9 @@ Also I have some personal projects that I built to keep me constantly learning a
 
 ## Volunteer?
 
-Yeap! Actually I’m part of  the Excellence Program (Pro-Excelencia) , which is a program carried out by the Venezuelan American Friendship Association (AVAA by its acronym in spanish), an NGO that helps Venezuelan college students providing them with leadership skills, assertive communication, TICS, English, awareness and Reinforcement of social and citizen awareness with the participation and organization of volunteer activities and projects during their career.
+Yeap! Actually I’m part of the Excellence Program (Pro-Excelencia), which is a program carried out by the Venezuelan American Friendship Association (AVAA by its acronym in spanish), an NGO that helps Venezuelan college students providing them with leadership and assertive communication skills, TICS, English and Reinforcement of social and citizen awareness with the participation of volunteer activities and projects during their career.
 
-In that program I've been taking part in different projects and activities during the 3 years that I’ve been there. One of them was A friendly hand for the environment (UMAA) by its acronym in spanish, a project that have the mission of promoting and implementing criteria and instruments that allow the protection and conservation of the environment, in addition to enhancing the feeling of belonging of all Venezuelans towards the culture of Venezuela.
+During the 3 years that I’ve been there I've been taking part in different projects and activities. One of them "A friendly Hand for the Environment" (UMAA) by its acronym in spanish, a project that have the mission of promoting and implementing criteria and instruments that allow the protection and conservation of the environment, in addition to enhancing the feeling of belonging of all Venezuelans towards the culture of Venezuela.
 
 <p align="center">
   
@@ -62,7 +62,7 @@ In that program I've been taking part in different projects and activities durin
 </span>
 </p>
   
-  <span align = "left"> Currently, I’m part of the Commitment Committee in AVAA which is a position in where i have to design action plans to improve compliance of the commitments by the fellows and help them with all the different questions and concerns that they could have with the program
+  <span align = "left"> Currently, I’m part of the Commitment Committee in AVAA which is a position in where I have to design action plans to improve compliance of the commitments by the fellows and help them with all the different questions and concerns that they could have about the program
 
 Until now I improved the onboarding process of the new scholarship holders by creating a program called “Partner with a Green Heart”. It is an initiative in which those interested scholarship holders with more experience within the program ("Senior Scholars") commit to be a guide for those scholarship holders who are just beginning their path within the Program ("Junior Scholars") 
 
@@ -136,16 +136,16 @@ Chai Library, pytest
 
 Techstack: Cairo, Protostar.
 
-
 ## :grey_question: Some questions
 
 ### Unit testing experience?
 
-Always recommended, more if you are writing solidity code. I use mocha and chai library for assertions when I testing my solidity code in JS or Pytest if im working with python
+I use mocha and chai library for assertions when I testing my solidity code in JS or Pytest if im working with python. Actually, every project that I built i've implemented unit test. 
 
 ### TDD experience?
 
 I know the theory and concepts behind TDD and I've applied them on the projects that I worked on.
+
 ### Have you had experience with solidity security best practices?
 
 Yes, in fact this is one of the areas in which I have more insteres in the blockchain space. Along with tokenomic, I really like doing research about the hacks that are happening in the ecosystem to learn from them.
@@ -222,7 +222,7 @@ Language:
 
 ### How do you keep yourself up to date?
 
-It is a bit of mix & match
+It's a bit of mix & match
 
 - I am active on Twitter and usually follow devs and projects I am interested in. I usually find important updates, or links to talks, events, and technical tutorials.
 - Medium, I like the technical articles published here which tend to go more in-depth and technical than random tweets and subreddits. 
@@ -234,7 +234,8 @@ It is a bit of mix & match
    - Encode club
    - ETH Global
    - Moralis
-   - Eat the blocks -->
+   - Eat the blocks
+   - Not Only Owner-->
 
 ### What are you currently working on?
 
