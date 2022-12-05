@@ -93,7 +93,7 @@ Adding that also I do volunteer with other NGO here in Venezuela, Like Techo,
 
   <span  align="right">
   <img 
-    width="600"
+    width="800"
     height="400"
     src="https://i.imgur.com/ClJw0ad.jpg"
   >
