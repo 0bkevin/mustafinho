@@ -184,7 +184,6 @@ I consider meetings to be a low productive activity within companies yet somehow
 In order of importance:
 
 - **Culture:** I would love to work in the insane and shockingly startup ecosystem, with people trying to build something they are proud of and can have a real impact in the world improving people's live. 
-- 
 - **Intellectual curiosity:** I would like to work in a company that is always pushing it's team towards excellence, with an insatiable desire for never stop learning
 - **Flexibility:**  I would like to work in a company that understands not everyone runs on the same schedule and that looks for punched out tasks and getting things done rather than punched out hours.
 - **Company mission & values:** I would like to work in a company that really believes in what they are saying, not only because of money, of course it's important, but more important is to leave a footprint in all those possible lives we can change with the product that we could work on.
