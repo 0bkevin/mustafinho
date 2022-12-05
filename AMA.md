@@ -2,44 +2,37 @@
 
 Hello, recruiter or technical person! :clap: **Thank you for stopping by and have interest in my profile.**
 
-Nowadays is really complicated to know each other, more when you are in a interview and have all kind of feelings (anxiety, fear...) and short time, so I decided to write this kind of AMA in where I'm interviewing myself for you to know a little about me.
-
+Nowadays it is really complicated to know each other, more when you are in a interview and have all kind of feelings (anxiety, fear...) and short time, so I decided to write this kind of AMA in where I'm interviewing myself for you to know a little about me.
 
 > Each section contains 5 questions or less, the goal is to explain my technical & soft  experience as well as professional interests so that any person could get to know me in less than 5 mins. 
 
+# :eyes: Overall.
 
-# :eyes: Overall
-
-Actually, the experience that I've applied professionally is mostly based on soft skills. I 've implemented all the things that I've learned as an Occupational Therapy student: I carried out teams, I helped to organize programs and activities , I've been working in teams with people of all different classes… Plus, all the work that I've been doing as a volunteer (currently I have like 800 hours of volunteer work)  Plus, all the beautiful things I learned as a scholarship holder of the AVAA organization.
-
-But, of course **I have Highly technical abilities that I've applied to all the side projects that I worked on, that include planning, designing, building and deploying**
-
-## Occupational what???
-
-Yes, Formally I’m an Occupational Therapy (OT) Student here in Venezuela. When I started, my goal was to finish this carrer and then study and engeneering realted carrer, but the pandemic came and everything just fucked up.
-
-During the pandemic I started to study Web development through a Scholarship of Coursera, to have something to do during this time because my college was completely closed. Then, I started to dive deep into the blockchain rabbit hole and completely fell in love with all this crazy and buggy and new tech. Not only because the innovation, in blockchain development you need  to have string fundamental knowledge of all kind of stuff (cryptographics, networks, cybersec, system design, behavioral economics, game theory…) and wow, that experience of being in constant learning and at the same time building what probably could be the future of internet is something that I couldn't let go.
-
-## Why study two careers?
-
-Well, my family is kinda diverse, for my father’s side there are a lot of engineers and since I was a kid I always loved to see how my dad disassembled, designed and built things with all his tools. On the other hand, for my mother’s side there are nurses, teachers, occupational therapists, and, I really love that feeling of being able to help other humans, no matter what.  So, I decide to have a pathway in where I could include partially both:
-
-- **The engineering side**: designing, building, implementing, crash things up and assemble then uthil work
-- **The care side**: helping people, communities, not only with health problems but also with social, emotional and communication problems…
-  
-And since there is no such a thing as engineering care, I decided to go for OT and after finishing that go for an engineering career. **And I'm keeping that decision.**
 
 ##  What's your tech experience like?
 
-During the beginning of the pandemic I started to learn how to code, and then I've been building a lot of projects, doing a lot of research, and coding a lot of code that doesn’t work.
+I have been working for the past 6 months in the NGO where I'm currently a Scholarship holder as an intern.
 
-I’ve been coding for a year and a half doing side projects, mostly related to blockchain, using solidity, javascript and python
+My work was mostly helping improve internal processes in the organization. Previously the organization had a very inefficient way to manage data and time consuming and inneficient processes to make thighs work. 
+
+I actually built some systems that help improve those processes and make the internal work more efficient and automatic.
+
+For example, a process that used to take one to one and a half hours to be done manually, now takes less than 5 minutes. 
+
+ Also, I improve the way in which the organization keeps track of the alumni data and progress during their stay in the program and also once they leave it, making it more efficient how they keep track of all the alumni data. 
+
+Those systems were mostly built by using Google App Scripts with Typescript and some scripts in python that help connect diverse products and automate processes.
+
+If you want to know more about that you can check this.
+
+Also I have some personal projects that I built to keep me constantly learning and improving my abilities with Solidity, Cairo, typescript and python
+
 
 ## Volunteer?
 
-Yeap! Actually I’m part of  Pro-excelencia, which is a program carried out by the Venezuelan American Friendship Association (AVAA by its acronym in spanish), an NGO that helps  Venezuelan college students providing them with leadership skills, assertive communication, TICS, English, awareness and Reinforcement of social and citizen awareness with the participation and organization of volunteer activities and projects during their career.
+Yeap! Actually I’m part of  the Excellence Program (Pro-Excelencia) , which is a program carried out by the Venezuelan American Friendship Association (AVAA by its acronym in spanish), an NGO that helps Venezuelan college students providing them with leadership skills, assertive communication, TICS, English, awareness and Reinforcement of social and citizen awareness with the participation and organization of volunteer activities and projects during their career.
 
-In that program I've been taking part of different projects and activities during the 3 years that I’ve been there, one of them was UMAA (A friendly hand for the environment) by its acronym in spanish, a project that have the mission of promoting and implementing criteria and instruments that allow the protection and conservation of the environment, in addition to enhancing the feeling of belonging of all Venezuelans towards the culture of Venezuela.
+In that program I've been taking part in different projects and activities during the 3 years that I’ve been there. One of them was A friendly hand for the environment (UMAA) by its acronym in spanish, a project that have the mission of promoting and implementing criteria and instruments that allow the protection and conservation of the environment, in addition to enhancing the feeling of belonging of all Venezuelans towards the culture of Venezuela.
 
 <p align="center">
   
@@ -69,7 +62,15 @@ In that program I've been taking part of different projects and activities durin
 </span>
 </p>
   
-  <span align = "left"> Actually, I’m part of the Commitment Committee in AVAA which is a position in where i have to design action plans to improve compliance of the commitments by the fellows and help them with all the different questions and concerns that they could have with the Pro-Excelencia program</span>
+  <span align = "left"> Currently, I’m part of the Commitment Committee in AVAA which is a position in where i have to design action plans to improve compliance of the commitments by the fellows and help them with all the different questions and concerns that they could have with the program
+
+Until now I improved the onboarding process of the new scholarship holders by creating a program called “Partner with a Green Heart”. It is an initiative in which those interested scholarship holders with more experience within the program ("Senior Scholars") commit to be a guide for those scholarship holders who are just beginning their path within the Program ("Junior Scholars") 
+
+Having great results when we implement it in the cohort of May 2022, currently the initiative is taking place with the new scholars of the Cohort of november 2022.  
+
+Adding that also I do volunteer with other NGO here in Venezuela, Like Techo, 
+
+</span>
   
 <p align = "center">
   <span>
@@ -86,20 +87,21 @@ In that program I've been taking part of different projects and activities durin
 ## Techstack Overview
 
 - **Languages:**
-Javascript/Typescript, Python, Solidity, 
+Javascript/Typescript, Python, Solidity, Cairo
 
 - **Frameworks:**
-React, Nextjs, brownie, hardhat, truffle
+React, Nextjs, brownie, hardhat, truffle, Protostar, Nile
 
 - **Tools:**
-Pinata, Textile IO, IPFS, Ingura, Alchemy, Git, slither, mythx
+Pinata, Textile IO, IPFS, Ingura, Alchemy, Git, slither, mythx, Fleek, Tenderly, Tally
 
 - **Testing:**
 Chai Library, pytest
 
+
 ## Best Personal Projects:
 
-**Crowdfy:** A crowdfunding protocol that uses the minimal proxy pattern to make a campaign, every campaign has its own contract and its own storage variable. There is a website where you can interact with the project.
+**Crowdfy:** A crowdfunding protocol that uses the minimal proxy pattern to make a campaign, every campaign has its own contract and its own storage. Has capabilities to do yield farming with the funds collected and swap tokens received by the contributors to the actual token that the campaign is receiving. Has its own token and its own governance mechanism. There is a website where you can interact with the project. 
 
   - Techstack: Solidity, truffle, React, IPFS, Slither
   
@@ -111,11 +113,10 @@ Chai Library, pytest
 
   - TechStack: Typescript, nodeJs, socket io
 
-<!-- **Terato:** a simple website, aims to be the place in where occupational therapist can find helpful information for its practices, and also contribute to the community through blog post
+**StarkLend:** A decentralized lending and borrowing protocol deployed on the Ethereum L2 Starknet network. It is a simple protocol that replicates the functionalities of the AAVE protocol but in the Starknet network.
 
-  - TechStack: Next js React/typescript, tailwind, strapi
+Techstack: Cairo, Protostar.
 
-- [Repo](https://github.com/mustafinho/terato) -->
 
 ## :grey_question: Some questions
 
@@ -125,12 +126,12 @@ Always recommended, more if you are writing solidity code. I use mocha and chai 
 
 ### TDD experience?
 
-I know the theory and concepts behind TDD and I've applied them to the projects that I worked on, but of course not in a business way.
+I know the theory and concepts behind TDD and I've applied them on the projects that I worked on.
 ### Have you had experience with solidity security best practices?
 
-Yes, in fact this is one of the areas in which I have more insteres, Along with tokenomic, I really like doing research about the hacks that are happening in the ecosystem, and I’m very fan of the Ethernaut CTF.
+Yes, in fact this is one of the areas in which I have more insteres in the blockchain space. Along with tokenomic, I really like doing research about the hacks that are happening in the ecosystem to learn from them.
 
-### Can you create a palindrome, then revert a linked list where the first entry needs to… and at the same time design a cripto economic system that can solve the world’s inequality problem?
+### Can you create a palindrome, then revert a linked list where the first entry needs to… and at the same time design a crypto economic system that can solve the world’s inequality problem?
 
 Ok, I have strong problem solving and communication abilities that I can apply for most situations that I could find.
 
@@ -148,13 +149,10 @@ Pizza
 
 WAGMI
 
-- <p> All your networth is in the hands of this man? <span><img src="https://i.imgur.com/J6hHWCR.jpg" width="110" height="150"/></span></p>
+- <p> All your net worth is in the hands of this man? <span><img src="https://i.imgur.com/J6hHWCR.jpg" width="110" height="150"/></span></p>
 
 Yes
 
-- **Are you fully vaccinated?**
-
-Yes, but I'm still waiting for my booster shot(3rd dosse)
 
 # :dancer: What Would You Ask & Seek at Your Next Company?
 
@@ -221,7 +219,11 @@ It is a bit of mix & match
 
 ### What are you currently working on?
 
-Currently I'm working on the "Arepachain" Blockchain. But also I'm currently in a self learning process in which I'm learning about crypto primitives and Token economics (Bonding Curves, Prediction Markets, Token Curated Registries) and how to apply them on smart contracts.
+I'm currently in a self learning process in which I'm learning about ZK-Proof and the primitive mechanisms that make them possible. Also currently building some Cairo Stuff.  
+
+### What interests you most in the blockchain space?
+
+Tokenomics (Bonding Curves, Prediction Markets, Token Curated Registries) and how to apply them on smart contracts, EVM dynamics, Interoperability between blockchains and L2s and ZK - Proof.
 
 ### Blog post
 
@@ -235,6 +237,7 @@ Currently I'm working on the "Arepachain" Blockchain. But also I'm currently in 
 
 **LinkedIn:** [bravokevin](https://www.linkedin.com/in/bravokevin/)
 
-**Twitter:** @KevBTo
+**Twitter:** @_BravoK
 
 **Phone:** Let's email first 🙂
+
