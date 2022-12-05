@@ -82,6 +82,28 @@ Adding that also I do volunteer with other NGO here in Venezuela, Like Techo,
   </span>
 </p>
 
+<p align = "left">
+  <span>
+  <img 
+    width="300"
+    height="400"
+    src="https://i.imgur.com/FwlZDf4"
+  >
+  </span>
+</p>
+
+<p align = "rigth">
+  <span>
+  <img 
+    width="300"
+    height="400"
+    src="https://i.imgur.com/ClJw0ad"
+  >
+  </span>
+</p>
+
+https://imgur.com/FwlZDf4
+
 # :octocat: :computer: Talk Techy to me 
 
 ## Techstack Overview
