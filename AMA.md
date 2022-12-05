@@ -4,8 +4,7 @@ Hello, recruiter or technical person! :clap: **Thank you for stopping by and hav
 
 Getting to know a candidate can be a challenging task, more when you are in a interview and have all kind of feelings (anxiety, fear...) and short time, so I decided to write this kind of AMA in where I'm interviewing myself for you to know me. 
 
-> Each section contains 5 questions or less, the goal is to explain my technical & soft  experience as well as professional interests so that any person could get to know me in less than 5 mins. Where the goal is to explain my technical & managerial experience as well as professional interests in less than 5 mins.
-
+> Each section contains 5 questions or less, the goal is to explain my technical & soft  experience as well as professional interests so that any person could get to know me in less than 5 mins. 
 # :eyes: Overall.
 
 
