@@ -24,12 +24,11 @@ Those systems were mostly built by using Google App Scripts with Typescript and 
 
 If you want to know more about that you can check this.
 
-Also I have some personal projects that I built to keep me constantly learning and improving my abilities with Solidity, Cairo, typescript and python
-
+More related to the blockchain space, I built some personal projects to keep me constantly learning and improving my abilities with Solidity, Cairo, typescript and python
 
 ## Volunteer?
 
-Yeap! Actually I’m part of the Excellence Program (Pro-Excelencia), which is a program carried out by the Venezuelan American Friendship Association (AVAA by its acronym in spanish), an NGO that helps Venezuelan college students providing them with leadership and assertive communication skills, TICS, English and Reinforcement of social and citizen awareness with the participation of volunteer activities and projects during their career.
+Yeap! Currently I’m part of the Excellence Program (Pro-Excelencia), which is a program carried out by the Venezuelan American Friendship Association (AVAA by its acronym in spanish), an NGO that helps Venezuelan college students providing them with leadership and assertive communication skills, TICS, English and Reinforcement of social and citizen awareness with the participation of volunteer activities and projects during their career.
 
 During the 3 years that I’ve been there I've been taking part in different projects and activities. One of them "A friendly Hand for the Environment" (UMAA) by its acronym in spanish, a project that have the mission of promoting and implementing criteria and instruments that allow the protection and conservation of the environment, in addition to enhancing the feeling of belonging of all Venezuelans towards the culture of Venezuela.
 
@@ -157,7 +156,7 @@ Ok, I have strong problem solving and communication abilities that I can apply f
 
 - **What are you reading right now?**
 
-The blockchain developer by Elad Elrom
+*Software Engineering at Google: Lessons Learned from Programming Over Time*
 
 - **Hamburgers or pizza?**
 
@@ -171,12 +170,16 @@ WAGMI
 
 Yes
 
+## What are you looking for in a company?
+. 
+My goal is to get involved in the exciting and freaking out startup environment, working out to raise a company from the bottom to the top..
+
+I don't want to work in a monotonous company in which everything is perfect and most of the processes are already established. I want to create those processes. Propose, design ideas and implement them 
+
+I want to work in a company that really believes in what they are doing, a company that wants to make some real change in the way we use things (for better) to improve people’s lives.
+
 
 # :dancer: What Would You Ask & Seek at Your Next Company?
-
-<!-- ## What are your meetings like? How many per week would I be expecting in this role?
-
-I consider meetings to be a low productive activity within companies yet somehow we tend to think they are productive. There's tons of research that shows otherwise. Non-planned meetings, "urgent" same-day meetings, meetings with no identifiable action items... If your role is to have me on back-to-back meetings just because, I would be not interested in the position. -->
 
 ## If we remove money off the table, what would you say is important for your next gig?
 
