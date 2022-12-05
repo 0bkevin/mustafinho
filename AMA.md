@@ -101,8 +101,6 @@ Adding that also I do volunteer with other NGO here in Venezuela, Like Techo,
   </span>
 </p>
 
-https://imgur.com/FwlZDf4
-
 # :octocat: :computer: Talk Techy to me 
 
 ## Techstack Overview
