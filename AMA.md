@@ -73,32 +73,31 @@ Adding that also I do volunteer with other NGO here in Venezuela, Like Techo,
 </span>
   
 <p align = "center">
-  <span>
+   <span align="center">
+  <span align="left">
   <img 
     width="300"
     height="400"
     src="https://i.imgur.com/AzOmzkB.jpg"
   >
   </span>
-</p>
 
-<p align = "left">
-  <span>
+
+  <span  align="center">
   <img 
     width="300"
     height="400"
-    src="https://i.imgur.com/FwlZDf4"
+    src="https://i.imgur.com/FwlZDf4.jpg"
   >
   </span>
-</p>
 
-<p align = "rigth">
-  <span>
+  <span  align="right">
   <img 
     width="300"
     height="400"
-    src="https://i.imgur.com/ClJw0ad"
+    src="https://i.imgur.com/ClJw0ad.jpg"
   >
+  </span>
   </span>
 </p>
 
