@@ -172,6 +172,9 @@ WAGMI
 
 Yes
 
+
+# :dancer: What Would You Ask & Seek at Your Next Company?
+
 ## What are you looking for in a company?
 
 My goal is to get involved in the exciting and freaking out startup environment, working out to raise a company from the bottom to the top.
@@ -179,9 +182,6 @@ My goal is to get involved in the exciting and freaking out startup environment,
 I don't want to work in a monotonous company in which everything is perfect and most of the processes are already established. I want to create and establish those processes. Really I would like to work in an enviromment in where I can propose, design and implment ideas that can really improve the company and the services that offers.
 
 I want to work in a company that really believes in what they are doing, a company that wants to make some real change in the way we use things (for better) to improve people’s lives.
-
-
-# :dancer: What Would You Ask & Seek at Your Next Company?
 
 ## If we remove money off the table, what would you say is important for your next gig?
 
