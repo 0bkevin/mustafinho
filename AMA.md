@@ -99,6 +99,11 @@ Adding that also I do volunteer with other NGO here in Venezuela, Like Techo,
   </span>
 </p>
 
+### What are your professional Goals?
+
+My goal in the future is continuing my professional studies, until reaching a PHD level because I want to reach that point in my life where I can share and create new knowledge, not in an amateur way but proffesionally. I really love the college environment, so I want to continue studying but at the same time creating and gaining experience along the way while contributing to the tech community as I gain new knowledge and experience that can be usefull for others.
+
+
 # :octocat: :computer: Talk Techy to me 
 
 ## Techstack Overview
