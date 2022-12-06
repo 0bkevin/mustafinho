@@ -18,8 +18,6 @@ I actually built some systems that help improve those processes and make the int
 
 For example, a process that used to take one to one and a half hours to be done manually, now takes less than 5 minutes. 
 
- Also, I improve the way in which the organization keeps track of the alumni data and progress during their stay in the program and also once they leave it, making it more efficient how they keep track of all the alumni data. 
-
 Those systems were mostly built by using Google App Scripts with Typescript and some scripts in python that help connect diverse products and automate processes.
 
 If you want to know more about that you can check this.
