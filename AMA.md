@@ -173,10 +173,10 @@ WAGMI
 Yes
 
 ## What are you looking for in a company?
-. 
-My goal is to get involved in the exciting and freaking out startup environment, working out to raise a company from the bottom to the top..
 
-I don't want to work in a monotonous company in which everything is perfect and most of the processes are already established. I want to create those processes. Propose, design ideas and implement them 
+My goal is to get involved in the exciting and freaking out startup environment, working out to raise a company from the bottom to the top.
+
+I don't want to work in a monotonous company in which everything is perfect and most of the processes are already established. I want to create and establish those processes. Really I would like to work in an enviromment in where I can propose, design and implment ideas that can really improve the company and the services that offers.
 
 I want to work in a company that really believes in what they are doing, a company that wants to make some real change in the way we use things (for better) to improve people’s lives.
 
@@ -188,7 +188,7 @@ I want to work in a company that really believes in what they are doing, a compa
 In order of importance:
 
 - **Culture:** I would love to work in the insane and shockingly startup ecosystem, with people trying to build something they are proud of and can have a real impact in the world improving people's live. 
-- **Intellectual curiosity:** I would like to work in a company that is always pushing it's team towards excellence, with an insatiable desire for never stop learning
+- **Intellectual curiosity:** I would like to work in a company that is always pushing it's team towards excellence, with an insatiable desire of never stop learning.
 - **Flexibility:**  I would like to work in a company that understands not everyone runs on the same schedule and that looks for punched out tasks and getting things done rather than punched out hours.
 - **Company mission & values:** I would like to work in a company that really believes in what they are saying, not only because of money, of course it's important, but more important is to leave a footprint in all those possible lives we can change with the product that we could work on.
 
@@ -247,7 +247,7 @@ I'm currently in a self learning process in which I'm learning about ZK-Proof an
 
 ### What interests you most in the blockchain space?
 
-Tokenomics (Bonding Curves, Prediction Markets, Token Curated Registries) and how to apply them on smart contracts, EVM dynamics, Interoperability between blockchains and L2s and ZK - Proof.
+Tokenomics (Bonding Curves, Prediction Markets, Token Curated Registries) and how to apply them on smart contracts, EVM dynamics, Interoperability between blockchains and L2s and ZK-Proof.
 
 ### Blog post
 
