@@ -212,4 +212,4 @@
 
 
 
-[![Kevin's github activity graph](https://activity-graph.herokuapp.com/graph?username=mustafinho&theme=react-dark)](https://github.com/mustafinho)
+[![Kevin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mustafinho&bg_color=ffffff&color=000000&line=000000&point=bbbcbe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
