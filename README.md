@@ -210,4 +210,4 @@
 [twitter]: https://twitter.com/_BravoK "Twitter"
 [blog]: https://kevdevto.hashnode.dev/ "Blog"
 
-[![Kevin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mustafinho&bg_color=101319&color=ffffff&line=181f4e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kevin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mustafinho&bg_color=101319&color=ffffff&line=58a6ff&point=001eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
